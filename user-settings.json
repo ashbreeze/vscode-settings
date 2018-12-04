@@ -1,0 +1,12 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Monokai",
+    "explorer.autoReveal": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 11,
+    "workbench.colorCustomizations": {
+        "tab.inactiveBackground": "#1e1f1c"
+    },
+    "javascript.suggestionActions.enabled": false
+}
